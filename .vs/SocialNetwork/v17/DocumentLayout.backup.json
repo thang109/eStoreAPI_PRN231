@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\postshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\postshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\socialmockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\socialmockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|d:\\documents\\sourcecode\\socialnetwork_mockproject\\socialnetwork\\dto\\postdtos\\sharepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFAD2A5-A02E-4088-BC65-2AC0649EC2C9}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\dto\\postdtos\\sharepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\Post.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Post.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:06:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "SocialNetwork\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:02:22.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SocialNetwork\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:33:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "SocialNetwork\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:53:22.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialNetwork\\appsettings.json",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\appsettings.json",
+              "RelativeToolTip": "SocialNetwork\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T02:20:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Program.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Program.cs",
+              "RelativeToolTip": "SocialNetwork\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:35:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Controllers\\PostController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAQwLoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:43:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostShare.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\PostShare.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\PostShare.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\PostShare.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\PostShare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:59:54.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocialMockContext.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\SocialMockContext.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\SocialMockContext.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\SocialMockContext.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\SocialMockContext.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:19:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\User.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\User.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:18:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\Follow.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Follow.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:19:04.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SharePost.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\DTO\\PostDTOs\\SharePost.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\DTO\\PostDTOs\\SharePost.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\DTO\\PostDTOs\\SharePost.cs",
+              "RelativeToolTip": "SocialNetwork\\DTO\\PostDTOs\\SharePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:00:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Services\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Services\\MappingProfile.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Services\\MappingProfile.cs",
+              "RelativeToolTip": "SocialNetwork\\Services\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:44:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Models\\Comment.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Models\\Comment.cs",
+              "RelativeToolTip": "SocialNetwork\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:27:04.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Documents\\SourceCode\\SocialNetwork_MockProject\\SocialNetwork\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SocialNetwork\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAALUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:09:48.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
